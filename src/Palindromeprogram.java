@@ -41,6 +41,7 @@ public class Palindromeprogram {
 		{
 			System.out.println("the  string is not Palindrome  " );
 		}
+		System.out.println("the new code is adding for testing purpose " );	
 	}
 
 }
